@@ -19,7 +19,9 @@ This application will run in the browser and employee can use to generate a rand
 
 ## Website Link
 
-> Live link []
+> Live link [https://maharjn.github.io/PasswordGeneratorChallenge03/]
 
 ## Screenshot
-> Screenshot []
+The following image shows the web application's appearance and functionality:
+
+![The Password Generator application displays a red button to "Generate Password".](./assets/demoimg/03-javascript-homework-demo.png)
