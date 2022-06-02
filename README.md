@@ -24,4 +24,4 @@ This application will run in the browser and employee can use to generate a rand
 ## Screenshot
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./assets/demoimg/03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/demoimg/03-javascript-homework-demo.PNG)
